@@ -1,1 +1,6 @@
-# apha-dir
+# alpha-dir
+
+``` 
+py run.py
+```
+
